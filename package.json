@@ -1,0 +1,19 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "A chat rooms app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbauman1010/chatrooms.git"
+  },
+  "author": "Yozio Megabit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbauman1010/chatrooms/issues"
+  },
+  "homepage": "https://github.com/danielbauman1010/chatrooms#readme"
+}
